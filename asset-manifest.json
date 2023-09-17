@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Go_Travel_React/static/css/main.5522fb59.css",
+    "main.js": "/Go_Travel_React/static/js/main.02afa856.js",
+    "static/js/787.924567e0.chunk.js": "/Go_Travel_React/static/js/787.924567e0.chunk.js",
+    "index.html": "/Go_Travel_React/index.html",
+    "main.5522fb59.css.map": "/Go_Travel_React/static/css/main.5522fb59.css.map",
+    "main.02afa856.js.map": "/Go_Travel_React/static/js/main.02afa856.js.map",
+    "787.924567e0.chunk.js.map": "/Go_Travel_React/static/js/787.924567e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5522fb59.css",
+    "static/js/main.02afa856.js"
+  ]
+}
